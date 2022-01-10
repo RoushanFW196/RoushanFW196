@@ -1,24 +1,7 @@
-<!-- ### Hi there 👋 ,I am Roushan.
-
-<!--
-**RoushanFW196/RoushanFW196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...Full Stack Web Developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roushan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
+<h3 align="center">I'm a passionate Full Stack Developer from India. I'm a problem solver,an observer,and have been enthusiastic about new technology.passionate about coding and solving Data structure problem.</h3>
 
 ## 1. 🙋‍♂️ About Me
 
@@ -28,7 +11,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+ 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-roushan63.netlify.app/)** 
 
 - 📫 How to reach me **roushankumar6338@gmail.com**
 
@@ -89,6 +72,8 @@ Here are some ideas to get you started:
 <a href = "https://twitter.com/ROUSHAN58200556"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <!-- <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a target="_blank" href = "mailto:roushankumar6338@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
 
 </p>
 
