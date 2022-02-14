@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Roushan</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India. I'm a problem solver, an observer, and have been enthusiastic about new technology. passionate about coding, solving Data structure problems, and strongly interested in working as a web developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India. I'm a problem solver, an observer, and have been enthusiastic about new technology. passionate about coding, solving Data structure problems, and strongly interested in working as a web developer.</h3>
 <p align= "center">
 <img src="https://img.shields.io/badge/-Javascript-red"/>
 <img src="https://img.shields.io/badge/-ReactJS-blue"/>
